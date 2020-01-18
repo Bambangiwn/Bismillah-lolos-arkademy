@@ -1,0 +1,73 @@
+{
+	"name"      : "Bambang Irawan",
+	"age"       : 19,
+	"address"   : "jl. Gajahmada Gedongan VIII 4/4, magersari, kota mojokerto",
+	"hobbies"   : ["web development", "design", "blogging", "editing video", "mobile apps development", "data science"],
+	"is_married": false,
+	"list_school" : {
+		"SD/MI" : {
+			"name"    : "MI al-karimah",
+			"year_in" : 2006,
+			"year_out": 2012,
+			"major"   : null
+		},
+		
+		"SMP/MTS" : {
+			"name"    : "SMP Islam Brawijaya",
+			"year_in" : 2012,
+			"year_out": 2015,
+			"major"   : null
+		},
+
+		"SMA/SMK" : {
+			"name"    : "SMKS Tamansiswa Mojokerto",
+			"year_in" : 2015,
+			"year_out": 2018,
+			"major"   : "Teknik Komputer dan Jaringan"
+		}
+	},
+
+	"skills" : {
+		"1." : {
+			"skill_name" : "Design_with_CorelDraw",
+			"level"      : "advanced"
+		},
+		"2." : {
+			"skill_name" : "HTML",
+			"level"      : "advcanced"
+		},
+		"3." : {
+			"skill_name" : "CSS",
+			"level"      : "advcanced"
+		},
+		"4." : {
+			"skill_name" : "PHP",
+			"level"      : "beginner"
+		},
+		"5." : {
+			"skill_name" : "JavaScript",
+			"level"      : "beginner"
+		},
+		"6." : {
+			"skill_name" : "JAVA",
+			"level"      : "beginner"
+		},
+		"7." : {
+			"skill_name" : "Pascal",
+			"level"      : "beginner"
+		},
+		"8." : {
+			"skill_name" : "Bootstrap",
+			"level"      : "advcanced"
+		},
+		"9." : {
+			"skill_name" : "Git_&_GitHub",
+			"level"      : "advcanced"
+		},
+		"10." : {
+			"skill_name" : "Matematics",
+			"level"      : "advcanced"
+		}
+	},
+	"interest_in_coding" : true
+}
