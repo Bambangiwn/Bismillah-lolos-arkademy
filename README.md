@@ -7,8 +7,8 @@
   - sebagai library dalam bahasa pemrograman
 
 KETERANGAN: 
-soal nomor 1 menggunakan JSON menggunakan Sublime Text
-soal nomor 3 menggunakan JAVA dengan software eclipse
+soal nomor 1 menggunakan JSON menggunakan Sublime Text, 
+soal nomor 3 menggunakan JAVA dengan software eclipse, 
 soal nomor 4 menggunakan JAVA juga memakai eclipse
 
 *Untuk dapat menjalankan program JAVA harus di "run/jalankan" pada ECLIPSE. untuk versi pengujian online entah kenapa hasilnya error padahal di Eclipse berjalan normal - normal saja.
